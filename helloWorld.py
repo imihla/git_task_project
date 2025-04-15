@@ -1,2 +1,5 @@
+# Add user to enter some text
 userResponse = input("Enter something: ") 
-print("You've entered:", userResponse) 
+
+# Print what the user has entered
+print("You've entered:", userResponse)
